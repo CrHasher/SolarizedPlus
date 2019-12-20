@@ -2,7 +2,7 @@
 	"name": "solarizedplus",
 	"displayName": "Solarized+",
 	"description": "Solarized+ is a dark theme with a well balanced blend of colors see https://ethanschoonover.com/solarized/.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "SzilardLeventeFarkas",
 	"icon": "images/logo.png",
 	"engines": {

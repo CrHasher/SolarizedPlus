@@ -5,3 +5,13 @@ The theme is designed to:
 - be easy on the eyes thus reducing the eye strain
 
 **This theme uses parts of the Noctis theme as base you can find details about it here:** https://github.com/liviuschera/noctis
+
+<div align="center">
+
+## Solarized+
+
+![Solarized+ Screenshot](https://github.com/CrHasher/SolarizedPlus/raw/master/images/solarized+.png)
+
+
+</div>
+
