@@ -12,6 +12,10 @@
 		"color": "#002B36",
 		"theme": "dark"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CrHasher/SolarizedPlus"
+	},
 	"categories": [
 		"Themes",
 		"Other"
