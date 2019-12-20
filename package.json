@@ -2,8 +2,8 @@
 	"name": "solarizedplus",
 	"displayName": "Solarized+",
 	"description": "Solarized+ is a dark theme with a well balanced blend of colors see https://ethanschoonover.com/solarized/.",
-	"version": "1.0.0",
-	"publisher": "szilard",
+	"version": "1.0.1",
+	"publisher": "SzilardLeventeFarkas",
 	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.36.0"
@@ -26,7 +26,8 @@
 		"bold"
 	],
 	"contributes": {
-		"themes": [{
+		"themes": [
+			{
 				"label": "Solarized+",
 				"uiTheme": "vs-dark",
 				"path": "./themes/solarized.json"
@@ -34,5 +35,10 @@
 		]
 	},
 	"dependencies": {},
-	"devDependencies": {}
+	"devDependencies": {},
+	"__metadata": {
+		"id": "62a84b19-8a44-4c8f-99b9-01b017cb15e7",
+		"publisherId": "6e6ffee5-ae4c-4058-8b1e-27f4c79bc2d3",
+		"publisherDisplayName": "Szilard Levente Farkas"
+	}
 }

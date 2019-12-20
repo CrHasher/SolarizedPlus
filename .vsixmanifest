@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="solarized+" Version="1.0.0" Publisher="szilard"/>
+    <Identity Language="en-US" Id="solarized+" Version="1.0.1" Publisher="SzilardLeventeFarkas"/>
     <DisplayName>Solarized+</DisplayName>
-    <Description xml:space="preserve">Solarized+ is a well rounded solarized theme that uses the popular Noctis coloring rules as a base</Description>
+    <Description xml:space="preserve">Solarized+ is a dark theme with a well balanced blend of colors see https://ethanschoonover.com/solarized/.</Description>
     <Tags>solarized+,semantic,bold,theme,color-theme</Tags>
     <Categories>Themes,Other</Categories>
     <GalleryFlags>Public</GalleryFlags>
